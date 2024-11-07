@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidateTheNameModelBinding
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests.Invariance", "UnitTests.Invariance\UnitTests.Invariance.csproj", "{81D730F2-A318-4B2B-AFF3-B9FDD0EF24B3}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlInjection", "SqlInjection\SqlInjection.csproj", "{D5FEF15C-EA31-4672-8530-2832EEB2863F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{81D730F2-A318-4B2B-AFF3-B9FDD0EF24B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81D730F2-A318-4B2B-AFF3-B9FDD0EF24B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81D730F2-A318-4B2B-AFF3-B9FDD0EF24B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5FEF15C-EA31-4672-8530-2832EEB2863F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FEF15C-EA31-4672-8530-2832EEB2863F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FEF15C-EA31-4672-8530-2832EEB2863F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FEF15C-EA31-4672-8530-2832EEB2863F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

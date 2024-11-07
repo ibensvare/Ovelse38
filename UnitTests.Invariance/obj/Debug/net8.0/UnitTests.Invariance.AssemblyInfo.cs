@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnitTests.Invariance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe0b5b92f9d8ebd447d41fb9485754dff99f5bb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+579a7523273319d56711c59e11b52b0610ae0353")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnitTests.Invariance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnitTests.Invariance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
