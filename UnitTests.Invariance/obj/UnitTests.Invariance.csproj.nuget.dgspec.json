@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\øvelse36\\UnitTests.Invariance\\UnitTests.Invariance.csproj": {}
+    "C:\\Users\\ibens\\Desktop\\Ovelse38\\Ovelse38\\UnitTests.Invariance\\UnitTests.Invariance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\øvelse36\\UnitTests.Invariance\\UnitTests.Invariance.csproj": {
+    "C:\\Users\\ibens\\Desktop\\Ovelse38\\Ovelse38\\UnitTests.Invariance\\UnitTests.Invariance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\øvelse36\\UnitTests.Invariance\\UnitTests.Invariance.csproj",
+        "projectUniqueName": "C:\\Users\\ibens\\Desktop\\Ovelse38\\Ovelse38\\UnitTests.Invariance\\UnitTests.Invariance.csproj",
         "projectName": "UnitTests.Invariance",
-        "projectPath": "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\øvelse36\\UnitTests.Invariance\\UnitTests.Invariance.csproj",
-        "packagesPath": "C:\\Users\\nordb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\øvelse36\\UnitTests.Invariance\\obj\\",
+        "projectPath": "C:\\Users\\ibens\\Desktop\\Ovelse38\\Ovelse38\\UnitTests.Invariance\\UnitTests.Invariance.csproj",
+        "packagesPath": "C:\\Users\\ibens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibens\\Desktop\\Ovelse38\\Ovelse38\\UnitTests.Invariance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nordb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ibens\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\øvelse36\\øvelse26\\ValidateTheNameModelBinding.csproj": {
-                "projectPath": "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\øvelse36\\øvelse26\\ValidateTheNameModelBinding.csproj"
+              "C:\\Users\\ibens\\Desktop\\Ovelse38\\Ovelse38\\øvelse26\\ValidateTheNameModelBinding.csproj": {
+                "projectPath": "C:\\Users\\ibens\\Desktop\\Ovelse38\\Ovelse38\\øvelse26\\ValidateTheNameModelBinding.csproj"
               }
             }
           }
@@ -87,17 +87,17 @@
         }
       }
     },
-    "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\øvelse36\\øvelse26\\ValidateTheNameModelBinding.csproj": {
+    "C:\\Users\\ibens\\Desktop\\Ovelse38\\Ovelse38\\øvelse26\\ValidateTheNameModelBinding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\øvelse36\\øvelse26\\ValidateTheNameModelBinding.csproj",
+        "projectUniqueName": "C:\\Users\\ibens\\Desktop\\Ovelse38\\Ovelse38\\øvelse26\\ValidateTheNameModelBinding.csproj",
         "projectName": "ValidateTheNameModelBinding",
-        "projectPath": "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\øvelse36\\øvelse26\\ValidateTheNameModelBinding.csproj",
-        "packagesPath": "C:\\Users\\nordb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\øvelse36\\øvelse26\\obj\\",
+        "projectPath": "C:\\Users\\ibens\\Desktop\\Ovelse38\\Ovelse38\\øvelse26\\ValidateTheNameModelBinding.csproj",
+        "packagesPath": "C:\\Users\\ibens\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibens\\Desktop\\Ovelse38\\Ovelse38\\øvelse26\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nordb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ibens\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
