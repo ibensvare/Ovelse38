@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\\u00F8velse36\\UnitTests.Invariance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC630E6-2473-427B-B342-57EFA5EDC406}|UnitTests.Invariance.csproj|c:\\users\\nordb\\documents\\it-sikkerhed\\ovelse38\\\u00F8velse36\\unittests.invariance\\firstnametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC630E6-2473-427B-B342-57EFA5EDC406}|UnitTests.Invariance.csproj|solutionrelative:firstnametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstNameTests.cs",
+              "DocumentMoniker": "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\\u00F8velse36\\UnitTests.Invariance\\FirstNameTests.cs",
+              "RelativeDocumentMoniker": "FirstNameTests.cs",
+              "ToolTip": "C:\\Users\\nordb\\Documents\\IT-Sikkerhed\\Ovelse38\\\u00F8velse36\\UnitTests.Invariance\\FirstNameTests.cs*",
+              "RelativeToolTip": "FirstNameTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:29:30.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
